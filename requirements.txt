@@ -1,0 +1,12 @@
+# Note: this doesn't include tensorflow or tensorflow-gpu because the package you need to install
+# depends on your platform. It is assumed you have already installed tensorflow.
+librosa==0.5.1
+numpy==1.14.3
+matplotlib==2.0.2
+tqdm==4.11.2
+seaborn
+flask_cors
+flask
+# Workaround llvmlite being incompatible with current llvm - Bug #49
+numba==0.45.1
+llvmlite==0.30.0

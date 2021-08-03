@@ -1,0 +1,8 @@
+
+          Wrote 12854 utterances, 3709376 frames, 12.879777777777777 hours
+
+          Max input lengh: 51 
+
+          Max output length: 721 
+
+        
